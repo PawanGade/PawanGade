@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pawan Gade</h1>
-<h3 align="center">A passionate Data Engineering</h3>
+<h3 align="center">A passionate Wen Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawangade&label=Profile%20views&color=0e75b6&style=flat" alt="pawangade" /> </p>
 
-- 🌱 I’m currently learning **Azure Cloud**
+- 🌱 I’m currently learning **Web Development**
 
-- 🤝 I’m looking for help with **Data Engineering Related Stuf**
+- 🤝 I’m looking for help with **Web Development Related Stuf**
 
-- 💬 Ask me about **Python, C, DBMS, SQL, OOP**
+- 💬 Ask me about **Python, C, DBMS, SQL, HTML, CSS,Java script,Django**
 
-- 📫 How to reach me **pawangade2002@gmail.com**
+- 📫 How to reach me **gadepawan2002@gmail.com**
 
 - ⚡ Fun fact **I think I am ...**
 
