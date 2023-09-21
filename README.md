@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Web Development Related Stuf**
 
-- 💬 Ask me about **Python, C, DBMS, SQL, HTML, CSS,Java script,Django**
+- 💬 Ask me about **Python, C, DBMS, SQL, HTML, CSS,Java Script,Django**
 
 - 📫 How to reach me **gadepawan2002@gmail.com**
 
