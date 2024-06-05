@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 💬 Ask me about **VAPT, SOC, Web Application security, Android Security, Python, DBMS, HTML,**
+- 💬 Ask me about **VAPT, SOC, Web Application security, Android Security, Python, DBMS**
 
 - 📫 How to reach me **gadepawan2002@gmail.com**
 
