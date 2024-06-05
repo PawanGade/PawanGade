@@ -10,8 +10,3 @@
 - 📫 How to reach me **gadepawan2002@gmail.com**
 
 - ⚡ Fun fact **I think I am ...**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
