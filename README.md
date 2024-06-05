@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawangade&label=Profile%20views&color=0e75b6&style=flat" alt="pawangade" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Cyber Security**
 
-- 🤝 I’m looking for help with **Web Development Related Stuf**
-
-- 💬 Ask me about **Python, C, DBMS, SQL, HTML, CSS,Java Script,Django**
+- 💬 Ask me about **VAPT, SOC, Web Application security, scripts, Android Security, Python, DBMS, HTML,**
 
 - 📫 How to reach me **gadepawan2002@gmail.com**
 
